@@ -1,0 +1,1 @@
+qmk flash -kb keebio/iris/rev7 -km nbee
